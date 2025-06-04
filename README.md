@@ -1,9 +1,8 @@
 # shrividhya
-Sales analysis of sample super store data.
+As part of business analysis project I have analysed the sales data  of sample super store  using Tableau Tree map.
 
-The following stacked column chart  from tableau shows sales of super store items category and region wise.
+The following tree map chart shows the sales of phones and chairs are higher and other items has lower sales.Darker blue color in tree map has higher sales. Legend shows that profit is less for tables,book cases and supplies
 
-![image](https://github.com/user-attachments/assets/bc288019-c294-447b-9bb3-d9bb8545022c)
+![image](https://github.com/user-attachments/assets/1b33b258-8bcc-4001-b520-542025d538a4)
 
 
-![image](https://github.com/user-attachments/assets/ce658147-7994-4abc-a87e-644a52b7c0fc)
