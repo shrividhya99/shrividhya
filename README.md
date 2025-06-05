@@ -7,6 +7,8 @@ The following tree map chart shows the sales of phones and chairs are higher and
 
 The following chart shows the sales of items sub category wise for each region
 ![image](https://github.com/user-attachments/assets/25e71bf5-75a7-47fe-8315-9b12eb03146f)
+The following powerBI chart shows sales of items city wise
+![image](https://github.com/user-attachments/assets/04eba600-4e5e-464f-be23-ae8f8edc3df3)
 
 
 
